@@ -107,19 +107,6 @@ img.g-img+div {
   padding: 2.5em;
 }
 
-/*BUTTON*/
-.btn {
-  margin-top: 15px;
-  padding: 10px 15px;
-  display: inline-block;
-}
-
-.btn.btn-primary {
-  font-family: 'Montserrat', sans-serif;
-  background: #ff6b08;
-  color: #ffffff;
-}
-
 h1,
 h2,
 h3,
@@ -173,11 +160,9 @@ body {
 }
 
 .hero .text h3 {
-  text-align: start;
   text-indent: 15px;
-  /* margin-top: 10px; */
   margin-bottom: 7px;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 300;
   line-height: 1.2;
 }
